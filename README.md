@@ -10,3 +10,6 @@ Make sure that on clicking the options, the user is able to view the clicked mov
 Also make sure that the selected movie item is highlighted, just the way the first item in the preview is.
 
 ## Happy Solving!!
+
+
+![Preview](https://raw.githubusercontent.com/hulkmania40/movie-catalogue-react-challenge/refs/heads/master/src/assets/preview.png)
