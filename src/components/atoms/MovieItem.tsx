@@ -21,7 +21,7 @@ export type MovieItemProps = {
 
 const MovieItem: FC<MovieItemProps> = ({ title, selected }) => {
   return (
-    <div style={movieItemStyle(selected)} onClick={() => console.log(title)}>
+    <div style={movieItemStyle(selected)} >
       {title}
     </div>
   );
